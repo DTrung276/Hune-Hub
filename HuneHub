@@ -1,7 +1,7 @@
 -- https://discord.gg/fHdf4yXpVE
 
 
-shared.LoaderTitle = "Đăng Ký Kênh Hune IPA Nếu Bạn Không Muốn Gay 💀";
+shared.LoaderTitle = "Đăng Ký Kênh Hune IPA Nếu Bạn Không Muốn Gay";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
