@@ -3344,7 +3344,7 @@ if Sea3 then
         end
     end);
     local v494 = v16.Main:AddToggle("ToggleDoughKing", {
-        Title = "Đấm Vua Bột",
+        Title = "Auto Dough King",
         Description = "",
         Default = false
     });
@@ -3384,7 +3384,7 @@ if Sea3 then
         end
     end);
     local v495 = v16.Main:AddToggle("ToggleSpawnCake", {
-        Title = "Triệu Hồi Tư Lệnh Bánh",
+        Title = "Triệu Hồi Katakuri",
         Description = "",
         Default = true
     });
@@ -9325,6 +9325,6 @@ spawn(function()
 end);
 v14:Notify({
     Title = "Hune IPA",
-    Content = "Tải Xong",
+    Content = "Load Full 100%",
     Duration = 10
 });
